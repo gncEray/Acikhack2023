@@ -1,10 +1,10 @@
 # Acikhack2023
-TEKNOFEST 2023 Turkish Natural Language Processing
+# TEKNOFEST 2023 Turkish Natural Language Processing
 
-Bu projede bana verilen "teknofest_train_final.csv" verisetini aldım ve bu veriyi işleyerek daha temiz hale getirdim. 
-Bu temizleme yani ön işleme adımlarını daha ayrıntılı bir şekide görmek için "veri_on_isleme.py" isimli dosyaya göz atabilirsiniz.
+Bu projede bana verilen "teknofest_train_final.csv" verisetini aldım ve bu veriyi işleyerek daha temiz hale getirdim. -
+Bu temizleme yani ön işleme adımlarını daha ayrıntılı bir şekide görmek için "veri_on_isleme.py" isimli dosyaya göz atabilirsiniz. --
 
-veri_on_isleme.py:
+## veri_on_isleme.py:
   Ön işleme sırasında dış kaynak olarak "turkish.txt" isimli text dosyasını kullandım. Bu dosyanın içerisinde Türkçe stop_words yani Türkçe'de bir şey anlam ifade etmeyen kelimeler yer alıyor.
   Text dosyasını https://github.com/ahmetax/trstop/blob/master/dosyalar/turkce-stop-words adresinden indirip üzerine birkaç eklemeler yaparak kullandım.
   Bu noktada ek bir kaynağa ihtiyaç duymamın sebebi nltk kütüphanesinin Türkçe modülünün zengin olmaması ve model eğitiminde aksaklıklara neden olması.
@@ -12,7 +12,7 @@ veri_on_isleme.py:
 
 Modeli eğittiğim kodlara "model_olusturma.py" dosyasından göz atabilirsiniz.
 
-"model_olusturma.py":
+## "model_olusturma.py":
   Modeli eğitirken sklearn kütüphanesi modüllerini kullandım.
   Kullandığım modüller:
     CountVectorizer(): CountVectorizer(), doğal dil işleme (NLP) uygulamalarında kullanılan bir özelliktir ve bir dizi metni içeren belgeleri sayısal bir matrise dönüştürmek için kullanılır. Bu matris, her bir metnin her bir kelimesinin sıklığını içeren bir kelime dağılım matrisidir.
