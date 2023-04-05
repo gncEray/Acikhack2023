@@ -21,4 +21,19 @@ Modeli eğittiğim kodlara "model_olusturma.py" dosyasından göz atabilirsiniz.
   NLP uygulamalarının olmazsa olmazı CountVectorizer ve TfidfTransformer yanında verilerin tipine ve eğittiğim veriye göre en çok uygunluk seviyesine sahip olduğu için LogisticRegression algoritmasını kullanmayı tercih ettim.   
   En son ise fit ederek oluşturduğum modelimi joblib kütüphanesi kullanarak kaydettim.   
     joblib: Python programlama dili için bir hafıza yönetimi kütüphanesidir. Özellikle makine öğrenimi ve bilimsel hesaplama gibi yüksek hesaplama yükü gerektiren işlemlerde, verilerin bellekte tutulmasına ve işlenmesine yardımcı olur.   
+    
+# GUI Kısmı
+GUI kısmında ise eğittiğim modeli kullandığım bir arayüz geliştirdim. <br>
+![image](https://user-images.githubusercontent.com/62249421/230186083-bbd00f22-7d76-4ebb-a239-1508bb3300b1.png)
+<br>
+Bu arayüzde e-mail atarken, sosyal medyada yorum yazarken ve müşteri hizmetleri ile konuşurken aşağılayıcı bir söylem kullanıldığı tespit edilirse. Söylemi kullanan kullanıcıyı bir forma yönlendiriyor ve bu formda hem daha sakin bir tavra yöneltiyor hem de aşağılayıcı söyleme başvurma sebebini, aşağılayıcı söylemden ne durumda vazgeçeceğini belirterek karşıdaki kişiye bilgi veriyor.
+<br>
+## E-mail Ekranı:
+![image](https://user-images.githubusercontent.com/62249421/230186842-b6b50cc7-fbc9-49aa-96ab-4dcab1bd749a.png)
+<br>
+Herhangi bir aşağılayıcı söylem tespit edilmediği durumda mail sorunsuz iletilirken:
+![image](https://user-images.githubusercontent.com/62249421/230186981-0bcdbc16-ee93-4810-a733-6e56433799c7.png)
+<br>
+
+
   
