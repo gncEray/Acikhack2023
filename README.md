@@ -34,6 +34,17 @@ Bu arayüzde e-mail atarken, sosyal medyada yorum yazarken ve müşteri hizmetle
 Herhangi bir aşağılayıcı söylem tespit edilmediği durumda mail sorunsuz iletilirken:
 ![image](https://user-images.githubusercontent.com/62249421/230186981-0bcdbc16-ee93-4810-a733-6e56433799c7.png)
 <br>
+Aşağılayıcı söylem tespiti durumunda kullanıcı uyarı ile karşılaşıyor ve maili iletilmiyor:
+<br>
+![image](https://user-images.githubusercontent.com/62249421/230187484-b603774d-ce05-46e0-9240-2f6bcfbea2f0.png)
+<br>
+Bir forma iletiliyor ve bu formda hem sakinleştirilmeye hem de daha nazik bir dil kullanmaya teşvik ediliyor.
+![image](https://user-images.githubusercontent.com/62249421/230187835-21c03dd1-c245-4a64-a946-95ae9fab6b49.png)
+<br>
+Bu formdaki sorularla, kullandığı söylemin kaba olmasıyla yüzleşiyor ve daha nazik bir dile teşvik ediliyor. Karşıdaki kişi ise bu formun sonuçlarını kayıt olarak alabiliyor ve kendini geliştirmek için şikayeti, aşağılayıcı dile maruz kalmadan alıyor.
+<br>
+<br>
+
 
 
   
