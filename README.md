@@ -23,7 +23,9 @@ Modeli eğittiğim kodlara "model_olusturma.py" dosyasından göz atabilirsiniz.
     joblib: Python programlama dili için bir hafıza yönetimi kütüphanesidir. Özellikle makine öğrenimi ve bilimsel hesaplama gibi yüksek hesaplama yükü gerektiren işlemlerde, verilerin bellekte tutulmasına ve işlenmesine yardımcı olur.   
     
 # GUI Kısmı
-GUI kısmında ise eğittiğim modeli kullandığım bir arayüz geliştirdim. <br>
+GUI kısmında ise eğittiğim modeli kullandığım bir arayüz geliştirdim. GUI uygulamasını çalıştırmak için "Gui" klasörü içerisindeki "main.py" dosyasını çalıştırabilirsiniz. <br><br>
+## GUI Ana Ekran:
+Bu ekranda modelin kullanıldığı ve aşağılayıcı söyleme çözüm geliştiren çeşitli simülasyonlara yönlendiriliyorsunuz.
 ![image](https://user-images.githubusercontent.com/62249421/230186083-bbd00f22-7d76-4ebb-a239-1508bb3300b1.png)
 <br>
 Bu arayüzde e-mail atarken, sosyal medyada yorum yazarken ve müşteri hizmetleri ile konuşurken aşağılayıcı bir söylem kullanıldığı tespit edilirse. Söylemi kullanan kullanıcıyı bir forma yönlendiriyor ve bu formda hem daha sakin bir tavra yöneltiyor hem de aşağılayıcı söyleme başvurma sebebini, aşağılayıcı söylemden ne durumda vazgeçeceğini belirterek karşıdaki kişiye bilgi veriyor.
