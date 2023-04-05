@@ -58,6 +58,16 @@ Fakat aşağılayıcı bir söylem kullandığında yeniden forma yönlendiriliy
 ## Müşteri Hizmetleri Ekranı:
 Aynı şekilde burada da kullanıcı bir aşağılayıcı söylem filtrelemesinden geçiyor: <br>
 ![image](https://user-images.githubusercontent.com/62249421/230191600-bec967cf-c05f-42cf-a5f3-ada0eaefafa1.png)
+<br>
+<br>
+Yönlendirmelerden sonraki formu doldurduktan sonra kaydet butonuyla kullanıcının cevapları kaydedilebilir: <br>
+![image](https://user-images.githubusercontent.com/62249421/230193299-76be6423-70a3-4478-9aa7-b27c603a543a.png)
+<br>
+<br>
+Kısacası aşağılayıcı söylemlerin arttığı günümüzde internette daha saygılı ve nazik bir ortamın oluşması için böyle bir uygulama geliştirdim. Formd, arada bir filtreleme ile köprü kurarak karşıdaki kişilerin aşağılayıcı söylemlere maruz kalmasını önlüyor. <br>
+Bunun yanında, kullanıcının dilini nazik dile yöneltiyor. <br>
+Ayrıca, söyleme maruz kalan kişinin yanlışını(?) bildiriyor.
+
 
 
 
