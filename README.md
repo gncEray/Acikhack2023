@@ -28,6 +28,7 @@ GUI kısmında ise eğittiğim modeli kullandığım bir arayüz geliştirdim. <
 <br>
 Bu arayüzde e-mail atarken, sosyal medyada yorum yazarken ve müşteri hizmetleri ile konuşurken aşağılayıcı bir söylem kullanıldığı tespit edilirse. Söylemi kullanan kullanıcıyı bir forma yönlendiriyor ve bu formda hem daha sakin bir tavra yöneltiyor hem de aşağılayıcı söyleme başvurma sebebini, aşağılayıcı söylemden ne durumda vazgeçeceğini belirterek karşıdaki kişiye bilgi veriyor.
 <br>
+
 ## E-mail Ekranı:
 ![image](https://user-images.githubusercontent.com/62249421/230186842-b6b50cc7-fbc9-49aa-96ab-4dcab1bd749a.png)
 <br>
@@ -44,6 +45,20 @@ Bir forma iletiliyor ve bu formda hem sakinleştirilmeye hem de daha nazik bir d
 Bu formdaki sorularla, kullandığı söylemin kaba olmasıyla yüzleşiyor ve daha nazik bir dile teşvik ediliyor. Karşıdaki kişi ise bu formun sonuçlarını kayıt olarak alabiliyor ve kendini geliştirmek için şikayeti, aşağılayıcı dile maruz kalmadan alıyor.
 <br>
 <br>
+## Sosyal Medya Ekranı:
+Bu ekranda ise aynı şekilde normal bir yorum yapmak istediğinde başarılı bir şekilde paylaşabiliyor:<br>
+![image](https://user-images.githubusercontent.com/62249421/230190115-4eb3e8ec-e88f-42e2-8878-c772e229d670.png)
+<br>
+Fakat aşağılayıcı bir söylem kullandığında yeniden forma yönlendiriliyor:<br>
+![image](https://user-images.githubusercontent.com/62249421/230190806-1527ec82-c314-4edd-952d-8595d00184ea.png)
+<br>
+<br>
+## Müşteri Hizmetleri Ekranı:
+Aynı şekilde burada da kullanıcı bir aşağılayıcı söylem filtrelemesinden geçiyor: <br>
+![image](https://user-images.githubusercontent.com/62249421/230191600-bec967cf-c05f-42cf-a5f3-ada0eaefafa1.png)
+
+
+
 
 
 
