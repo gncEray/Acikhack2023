@@ -15,9 +15,9 @@ Modeli eğittiğim kodlara "model_olusturma.py" dosyasından göz atabilirsiniz.
 ## "model_olusturma.py":
   Modeli eğitirken sklearn kütüphanesi modüllerini kullandım.  
   Kullandığım modüller:  
-    CountVectorizer(): CountVectorizer(), doğal dil işleme (NLP) uygulamalarında kullanılan bir özelliktir ve bir dizi metni içeren belgeleri sayısal bir matrise dönüştürmek için kullanılır. Bu matris, her bir metnin her bir kelimesinin sıklığını içeren bir kelime dağılım matrisidir.   
-    TfidfTransformer(): TfidfTransformer(), doğal dil işleme (NLP) uygulamalarında kullanılan bir özelliktir ve CountVectorizer() ile oluşturulan kelime dağılım matrisini kullanarak, her kelimenin önem derecesini hesaplamak için kullanılır.   
-    LogisticRegression(): LogisticRegression(), makine öğrenimi ve istatistiksel modellemede kullanılan bir sınıflandırma algoritmasıdır. Bu algoritma, verilerin bağımlı değişkeni (hedef sınıf) ile bir veya daha fazla bağımsız değişkeni (özellikler) arasındaki ilişkiyi modellemek için kullanılır.   
+      CountVectorizer(): CountVectorizer(), doğal dil işleme (NLP) uygulamalarında kullanılan bir özelliktir ve bir dizi metni içeren belgeleri sayısal bir matrise dönüştürmek için kullanılır. Bu matris, her bir metnin her bir kelimesinin sıklığını içeren bir kelime dağılım matrisidir.   <br>
+      TfidfTransformer(): TfidfTransformer(), doğal dil işleme (NLP) uygulamalarında kullanılan bir özelliktir ve CountVectorizer() ile oluşturulan kelime dağılım matrisini kullanarak, her kelimenin önem derecesini hesaplamak için kullanılır.   
+      LogisticRegression(): LogisticRegression(), makine öğrenimi ve istatistiksel modellemede kullanılan bir sınıflandırma algoritmasıdır. Bu algoritma, verilerin bağımlı değişkeni (hedef sınıf) ile bir veya daha fazla bağımsız değişkeni (özellikler) arasındaki ilişkiyi modellemek için kullanılır.   
   NLP uygulamalarının olmazsa olmazı CountVectorizer ve TfidfTransformer yanında verilerin tipine ve eğittiğim veriye göre en çok uygunluk seviyesine sahip olduğu için LogisticRegression algoritmasını kullanmayı tercih ettim.   
   En son ise fit ederek oluşturduğum modelimi joblib kütüphanesi kullanarak kaydettim.   
     joblib: Python programlama dili için bir hafıza yönetimi kütüphanesidir. Özellikle makine öğrenimi ve bilimsel hesaplama gibi yüksek hesaplama yükü gerektiren işlemlerde, verilerin bellekte tutulmasına ve işlenmesine yardımcı olur.   
