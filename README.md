@@ -1,7 +1,14 @@
 # Acikhack2023
 # TEKNOFEST 2023 Turkish Natural Language Processing
 
-Bu projede bana verilen "teknofest_train_final.csv" verisetini aldım ve bu veriyi işleyerek daha temiz hale getirdim.     
+## Kullandığım Kütüphaneler ve Uygulamayı çalıştırmak için Gerekenler:
+pandas -> dataframe işlemleri <br>
+nltk -> ön işleme ve verinin temizlenmesi <br>
+sklearn -> Verinin eğitilmesi ve model oluşturma <br> 
+joblib -> modeli kullanılabilir hale getirme <br>
+PyQt5 ve Tkinter -> Kullanıcı arayüzü tasarımı <br> <br>
+
+Bu projede ilk olarak, bana verilen "teknofest_train_final.csv" verisetini aldım ve bu veriyi işleyerek daha temiz hale getirdim.     
 Bu temizleme yani ön işleme adımlarını daha ayrıntılı bir şekide görmek için "veri_on_isleme.py" isimli dosyaya göz atabilirsiniz.    
 
 ## veri_on_isleme.py:
@@ -66,7 +73,12 @@ Yönlendirmelerden sonraki formu doldurduktan sonra kaydet butonuyla kullanıcı
 <br>
 Kısacası aşağılayıcı söylemlerin arttığı günümüzde internette daha saygılı ve nazik bir ortamın oluşması için böyle bir uygulama geliştirdim. Formd, arada bir filtreleme ile köprü kurarak karşıdaki kişilerin aşağılayıcı söylemlere maruz kalmasını önlüyor. <br>
 Bunun yanında, kullanıcının dilini nazik dile yöneltiyor. <br>
-Ayrıca, söyleme maruz kalan kişinin yanlışını(?) bildiriyor.
+Ayrıca, söyleme maruz kalan kişiye rapor halinde, neden kullanıcıyı bu söyleme ittiğini ve kendini nasıl geliştirebileceğini bildiriyor.
+
+Sunum:
+
+[ERAI-TEKNOFEST2023-tddi-sunum.pptx](https://github.com/gncEray/Acikhack2023/files/11230742/ERAI-TEKNOFEST2023-tddi-sunum.pptx)
+
 
 
 
