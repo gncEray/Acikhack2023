@@ -79,6 +79,12 @@ Sunum:
 
 [ERAI-TEKNOFEST2023-tddi-sunum.pptx](https://github.com/gncEray/Acikhack2023/files/11230742/ERAI-TEKNOFEST2023-tddi-sunum.pptx)
 
+[ERAI-TEKNOFEST2023-tddi-sunum.pdf](https://github.com/gncEray/Acikhack2023/files/11230758/ERAI-TEKNOFEST2023-tddi-sunum.pdf)
+
+
+
+
+
 
 
 
